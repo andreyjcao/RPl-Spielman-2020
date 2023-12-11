@@ -12,8 +12,9 @@ We first reproduce their results and then extend their work with a replication s
 
 ### Contributors
 
-- Liam Smith\*, lwsmith@middlebury.edu, @Liam-W-Smith, ORCID link, Middlebury College
-- Joseph Holler, josephh@middlebury.edu , @josephholler, ORCID link, Middlebury College
+- Liam Smith\*, lwsmith@middlebury.edu, @Liam-W-Smith, Middlebury College
+- Joseph Holler, josephh@middlebury.edu, @josephholler, Middlebury College
+- Andrey Cao, acao@middlebury.edu, @andreyjcao, Middlebury College
 
 \* Corresponding author and creator
 
